@@ -1,4 +1,5 @@
 # Síntese de fala
+![image](https://user-images.githubusercontent.com/78622458/176899042-75663fe5-6c81-48fd-b3a6-b537b23ce71d.png)
 
 ### 🔖 Sobre
 O JavaScript é capaz de reproduzir em voz uma leitura de texto.
