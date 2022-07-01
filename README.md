@@ -3,7 +3,7 @@
 ### 🔖 Sobre
 O JavaScript é capaz de reproduzir em voz uma leitura de texto.
 <br/>
-Veja aqui:
+Veja aqui: https://felpsalvs.github.io/sintese-de-fala/
 <br/>
 23/30 <br/>
 https://JavaScript30.com 
